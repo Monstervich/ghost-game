@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beyond Souls", "Beyond Souls.csproj", "{382DF2AF-3855-91E7-BCA2-CC47268AED6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beyond Souls.Plugins", "Beyond Souls.Plugins.csproj", "{E3B066D7-8564-0FB8-6AF6-1119312FE453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beyond Souls.Editor", "Beyond Souls.Editor.csproj", "{BD872C49-D077-E514-AF28-AC3EB0243480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beyond Souls.Editor.Plugins", "Beyond Souls.Editor.Plugins.csproj", "{EFC1A857-1BF3-49C4-A676-3E53611F362F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{382DF2AF-3855-91E7-BCA2-CC47268AED6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{382DF2AF-3855-91E7-BCA2-CC47268AED6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{382DF2AF-3855-91E7-BCA2-CC47268AED6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{382DF2AF-3855-91E7-BCA2-CC47268AED6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3B066D7-8564-0FB8-6AF6-1119312FE453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B066D7-8564-0FB8-6AF6-1119312FE453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B066D7-8564-0FB8-6AF6-1119312FE453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B066D7-8564-0FB8-6AF6-1119312FE453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD872C49-D077-E514-AF28-AC3EB0243480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD872C49-D077-E514-AF28-AC3EB0243480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD872C49-D077-E514-AF28-AC3EB0243480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD872C49-D077-E514-AF28-AC3EB0243480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFC1A857-1BF3-49C4-A676-3E53611F362F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC1A857-1BF3-49C4-A676-3E53611F362F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC1A857-1BF3-49C4-A676-3E53611F362F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC1A857-1BF3-49C4-A676-3E53611F362F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
